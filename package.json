@@ -1,0 +1,49 @@
+{
+    "name": "vscode-theme-cenhanced",
+    "displayName": "C Enhanced Theme",
+    "description": "A theme enhanced for language C.",
+    "version": "1.0.0",
+    "homepage": "https://xenkuo.github.io/",
+    "publisher": "Xen",
+    "license": "MIT",
+    "maintainers": [
+        "Xen <xenkuo@163.com>"
+    ],
+    "contributors": [
+        "Xen"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xenkuo/vscode-theme-cenhanced.git"
+    },
+    "bugs": {
+        "url": "https://github.com/xenkuo/vscode-theme-cenhanced/issues"
+    },
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "c",
+        "c enhanced",
+        "dark",
+        "theme",
+        "color-theme"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#3c4557",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "C Enhance",
+                "uiTheme": "vs-dark",
+                "path": "./themes/c-enhanced-theme.json"
+            }
+        ]
+    }
+}
