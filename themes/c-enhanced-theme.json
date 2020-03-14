@@ -1050,29 +1050,15 @@
 			}
 		},
 		{
-			"scope": "variable.parameter",
-			"settings": {
-				"foreground": "#FFB86C",
-				"fontStyle": "italic"
-			}
-		},
-		{
 			"scope": "variable.other.enummember",
 			"settings": {
 				"foreground": "#64ffda",
-				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "variable.other.property",
 			"settings": {
 				"foreground": "#F1FA8C"
-			}
-		},
-		{
-			"scope": "entity.name.function",
-			"settings": {
-				"foreground": "#50FA7B"
 			}
 		},
 		{
@@ -1113,12 +1099,6 @@
 			}
 		},
 		{
-			"scope": "keyword.operator.new",
-			"settings": {
-				"foreground": "#D4D4D4"
-			}
-		},
-		{
 			"scope": "entity.name.function.operator",
 			"settings": {
 				"foreground": "#D4D4D4"
@@ -1126,12 +1106,6 @@
 		},
 		{
 			"scope": "entity.name.function.operator.member",
-			"settings": {
-				"foreground": "#D4D4D4"
-			}
-		},
-		{
-			"scope": "variable.parameter",
 			"settings": {
 				"foreground": "#D4D4D4"
 			}
@@ -1156,12 +1130,6 @@
 		},
 		{
 			"scope": "entity.name.function.member.static",
-			"settings": {
-				"foreground": "#D4D4D4"
-			}
-		},
-		{
-			"scope": "entity.name.type",
 			"settings": {
 				"foreground": "#D4D4D4"
 			}
