@@ -1059,7 +1059,7 @@
 		{
 			"scope": "variable.other.enummember",
 			"settings": {
-				"foreground": "#FF5555",
+				"foreground": "#64ffda",
 				"fontStyle": "italic"
 			}
 		},
@@ -1078,7 +1078,7 @@
 		{
 			"scope": "entity.name.function.preprocessor",
 			"settings": {
-				"foreground": "#FF5555",
+				"foreground": "#64ffda",
 				"fontStyle": "bold"
 			}
 		},
