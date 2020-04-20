@@ -87,7 +87,3 @@ If you want to exclude all folders named `bar` in current workspace, set like be
   }
 }
 ```
-
-## The End
-
-I will update this file continuously.
