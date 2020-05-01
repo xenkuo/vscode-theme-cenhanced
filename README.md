@@ -15,5 +15,3 @@ Dracula Official
 
 C Enhanced
 ![image](./c_enhanced.png)
-
-**Enjoy!**
