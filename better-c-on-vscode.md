@@ -2,14 +2,12 @@
 
 ## Plugins
 
-### Necessary plugins
+### Required Plugins
 
 - `C/C++` from Microsoft
-- `C Enhanced Theme` here.
+- `C Enhanced Theme`
 
-### Recommend plugins
-
-- `Bracket Pair Colorizer 2`
+`C/C++` plugin has a **enhancedColorization** feature which can detect more types of token. The render of there tokens is not supported in vscode default theme framework. Microsoft offered a theme supports these new tokens based on vscode default theme [here](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes). I wrote a new one named `C Enhanced Theme` based on `Dracula Official`.
 
 ## Setting of `C/C++`
 
@@ -26,7 +24,7 @@ It works well with all default setting, to get a better experience, you can try 
 
 ### Setting of `c_cpp_properties.json`
 
-> Refer [Here](https://code.visualstudio.com/docs/cpp/c-cpp-properties-schema-reference) for a more detailed description.
+> Refer to [Here](https://code.visualstudio.com/docs/cpp/c-cpp-properties-schema-reference) for a more detailed description.
 
 Take below as example:
 
