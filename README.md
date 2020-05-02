@@ -8,10 +8,5 @@ To use the theme, please first install [C/C++](https://github.com/Microsoft/vsco
 
 To get a better C experience on vscode, please refer to [Better C on Vscode](./better-c-on-vscode.md).
 
-Below is C file render comparison of default `Dracula Official Theme` and `C Enhanced Theme`:
-
-Dracula Official
-![image](./dracula_official.png)
-
-C Enhanced
-![image](./c_enhanced.png)
+Below is C file render comparison of default `Dracula Official Theme` (left) and `C Enhanced Theme` (right):
+![image](./comparison.png)
