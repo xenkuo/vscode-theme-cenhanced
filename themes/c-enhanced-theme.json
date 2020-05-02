@@ -183,7 +183,7 @@
 		"terminal.background": "#282a36",
 		"terminal.foreground": "#f8f8f2",
 		"titleBar.activeBackground": "#21222c",
-		"titleBar.activeForeground": "#f8f8f2",
+		"titleBar.activeForeground": "#42a5f5",
 		"titleBar.inactiveBackground": "#191a21",
 		"titleBar.inactiveForeground": "#6272a4",
 		"walkThrough.embeddedEditorBackground": "#21222c",
